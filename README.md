@@ -1,2 +1,7 @@
 # meatende_api
-Repositório destinado para o projeto de app para atendimento de bares, restaurantes. A app é desenvolvida para a plataforma Android, utilizando o padrão nativo, e da linguagem Java.Utilizo para o webservice do projeto, o PHP
+
+Repositório para ser um container do projeto 'meatende-app'
+
+## Descrição
+
+O projeto desta app é para ser utilizado no atendimento de bares, restaurantes, especificamente quando tem clientes e, os mesmos necessitam solicitar algum pedido.
