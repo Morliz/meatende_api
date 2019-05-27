@@ -10,7 +10,8 @@ O projeto desta app é para ser utilizado no atendimento de bares, restaurantes,
 
 * [PHP](http://www.php.net/) - PHP
 * [Codeigniter](https://www.codeigniter.com/) - Framework PHP
-* [js, css](https://rometools.github.io/rome/) - Used to structure
+* [js, css](https://rometools.github.io/rome/) - ...
+* [mysql] - Backend
 
 ## Contributing
 
@@ -22,7 +23,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jon 'Sph3yinks' Oliveira** - *Initial work* - [PurpleBooth](https://github.com/Morliz)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
